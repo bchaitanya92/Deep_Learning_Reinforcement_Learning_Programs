@@ -136,7 +136,7 @@ Note: Some programs will automatically download datasets (MNIST, 20 Newsgroups) 
 <p>
   <b>Developed by:</b> <br>
   <b>B. Chaitanya</b> <br>
-  <i><b>Basic DSA & Programming in C</b></i> <br>
+  <i><b>Deep Learning & Reinforcement Learning</b></i> <br>
   <br>
   <b>GitHub:</b> <a href="https://github.com/bchaitanya92">bchaitanya92</a> <br>
   <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/b-chaitanya">BOURISETTI CHAITANYA</a>
