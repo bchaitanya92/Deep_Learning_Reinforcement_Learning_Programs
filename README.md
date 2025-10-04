@@ -134,9 +134,12 @@ Note: Some programs will automatically download datasets (MNIST, 20 Newsgroups) 
 ## 👨‍💻 Author & Credits
 
 <p>
-  <b>Repository maintained for educational purposes</b> <br>
+  <b>Developed by:</b> <br>
+  <b>B. Chaitanya</b> <br>
+  <i><b>Basic DSA & Programming in C</b></i> <br>
   <br>
-  <b>GitHub:</b> Repository for learning deep learning and reinforcement learning concepts <br>
+  <b>GitHub:</b> <a href="https://github.com/bchaitanya92">bchaitanya92</a> <br>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/b-chaitanya">BOURISETTI CHAITANYA</a>
 </p>
 
 <p align="center">
